@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/adityakumartiwary/leetcode/tree/master/0136-single-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 | [2665-minimum-time-to-repair-cars](https://github.com/adityakumartiwary/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/adityakumartiwary/leetcode/tree/master/2690-house-robber-iv) |
 ## Binary Search
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
