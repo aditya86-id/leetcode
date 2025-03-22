@@ -1,35 +1,21 @@
 class Solution {
 public:
-    int candy(vector<int>& rating) {
-        int n = rating.size();
-        int totalCandies = n;
-        int i=1;
+    int candy(vector<int>& A) {
+        int n = A.size(), ans = 0;
+        if (n == 0) return 0;
 
-        while(i<n){
-            if(rating[i]==rating[i-1]){
-                i++;
-                continue;
-            }
-            int currentpeak = 0;
-            while(i<n&&rating[i]>rating[i-1]){
-                currentpeak++;
-                totalCandies += currentpeak;
-                i++;
-            }
-            if (i == n) {
-                return totalCandies;
-            }
-           int currentValley = 0;
-            while (i < n && rating[i] < rating[i - 1]) {
-                currentValley++;
-                totalCandies += currentValley;
-                i++;
-            
+        vector<int> candy(n, 0); 
+        priority_queue<pair<int, int>> pq;
+        for (int i = 0; i < n; ++i) pq.push({-A[i], i});
 
+        while (!pq.empty()) {
+            auto [negRating, idx] = pq.top();
+            pq.pop();
+            int left = (idx == 0 ? 0 : (A[idx - 1] == A[idx] ? 0 : candy[idx - 1]));
+            int right = (idx == n - 1 ? 0 : (A[idx + 1] == A[idx] ? 0 : candy[idx + 1]));
+            candy[idx] = max(left, right) + 1;
+            ans += candy[idx];
         }
-        totalCandies -= min(currentpeak,currentValley);
-        }
-
-        return totalCandies;
+        return ans;
     }
 };
