@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 | [2665-minimum-time-to-repair-cars](https://github.com/adityakumartiwary/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/adityakumartiwary/leetcode/tree/master/2690-house-robber-iv) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/adityakumartiwary/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/adityakumartiwary/leetcode/tree/master/2690-house-robber-iv) |
 ## Bit Manipulation
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/adityakumartiwary/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Greedy
 |  |
 | ------- |
@@ -135,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
