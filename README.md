@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/adityakumartiwary/leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/adityakumartiwary/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/adityakumartiwary/leetcode/tree/master/0289-game-of-life) |
+| [0312-burst-balloons](https://github.com/adityakumartiwary/leetcode/tree/master/0312-burst-balloons) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0312-burst-balloons](https://github.com/adityakumartiwary/leetcode/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Backtracking
 |  |
