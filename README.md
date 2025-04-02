@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/adityakumartiwary/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/adityakumartiwary/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/adityakumartiwary/leetcode/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adityakumartiwary/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/adityakumartiwary/leetcode/tree/master/0289-game-of-life) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityakumartiwary/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityakumartiwary/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/adityakumartiwary/leetcode/tree/master/0120-triangle) |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/adityakumartiwary/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/adityakumartiwary/leetcode/tree/master/0313-super-ugly-number) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityakumartiwary/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/adityakumartiwary/leetcode/tree/master/0336-palindrome-pairs) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
@@ -231,5 +236,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/adityakumartiwary/leetcode/tree/master/0336-palindrome-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
