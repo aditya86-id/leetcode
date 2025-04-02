@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0967-minimum-falling-path-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 | [2665-minimum-time-to-repair-cars](https://github.com/adityakumartiwary/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/adityakumartiwary/leetcode/tree/master/2690-house-robber-iv) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityakumartiwary/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/adityakumartiwary/leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0967-minimum-falling-path-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/adityakumartiwary/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/adityakumartiwary/leetcode/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
