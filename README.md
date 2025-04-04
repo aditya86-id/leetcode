@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/adityakumartiwary/leetcode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/adityakumartiwary/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityakumartiwary/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
