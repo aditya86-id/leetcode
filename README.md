@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/adityakumartiwary/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/adityakumartiwary/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/adityakumartiwary/leetcode/tree/master/0336-palindrome-pairs) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/adityakumartiwary/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Union Find
 |  |
 | ------- |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/adityakumartiwary/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
