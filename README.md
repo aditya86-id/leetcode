@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
+| [0091-decode-ways](https://github.com/adityakumartiwary/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/adityakumartiwary/leetcode/tree/master/0120-triangle) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/adityakumartiwary/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
