@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityakumartiwary/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/adityakumartiwary/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/adityakumartiwary/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/adityakumartiwary/leetcode/tree/master/0136-single-number) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityakumartiwary/leetcode/tree/master/0347-top-k-frequent-elements) |
