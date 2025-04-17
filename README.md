@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityakumartiwary/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adityakumartiwary/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/adityakumartiwary/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/adityakumartiwary/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/adityakumartiwary/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
