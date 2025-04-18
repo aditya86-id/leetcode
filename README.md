@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/adityakumartiwary/leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/adityakumartiwary/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/adityakumartiwary/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adityakumartiwary/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityakumartiwary/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityakumartiwary/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/adityakumartiwary/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
+| [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityakumartiwary/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/adityakumartiwary/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/adityakumartiwary/leetcode/tree/master/0347-top-k-frequent-elements) |
