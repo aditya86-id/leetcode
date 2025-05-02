@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/adityakumartiwary/leetcode/tree/master/2690-house-robber-iv) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/adityakumartiwary/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3831-find-x-value-of-array-i](https://github.com/adityakumartiwary/leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [3831-find-x-value-of-array-i](https://github.com/adityakumartiwary/leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/adityakumartiwary/leetcode/tree/master/0343-integer-break) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0796-reaching-points](https://github.com/adityakumartiwary/leetcode/tree/master/0796-reaching-points) |
+| [3831-find-x-value-of-array-i](https://github.com/adityakumartiwary/leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
