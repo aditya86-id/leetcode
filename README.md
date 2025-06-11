@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -231,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityakumartiwary/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityakumartiwary/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
