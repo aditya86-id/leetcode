@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/adityakumartiwary/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3831-find-x-value-of-array-i](https://github.com/adityakumartiwary/leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Backtracking
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityakumartiwary/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1250-longest-common-subsequence](https://github.com/adityakumartiwary/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/adityakumartiwary/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/adityakumartiwary/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adityakumartiwary/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
