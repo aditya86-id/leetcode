@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/adityakumartiwary/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/adityakumartiwary/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adityakumartiwary/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/adityakumartiwary/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/adityakumartiwary/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/adityakumartiwary/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/adityakumartiwary/leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
