@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/adityakumartiwary/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/adityakumartiwary/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/adityakumartiwary/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/adityakumartiwary/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/adityakumartiwary/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/adityakumartiwary/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/adityakumartiwary/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
