@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/adityakumartiwary/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/adityakumartiwary/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/adityakumartiwary/leetcode/tree/master/0048-rotate-image) |
 | [0233-number-of-digit-one](https://github.com/adityakumartiwary/leetcode/tree/master/0233-number-of-digit-one) |
