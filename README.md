@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/adityakumartiwary/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/adityakumartiwary/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/adityakumartiwary/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/adityakumartiwary/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/adityakumartiwary/leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -314,10 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/adityakumartiwary/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/adityakumartiwary/leetcode/tree/master/0547-number-of-provinces) |
 ## Shortest Path
 |  |
 | ------- |
