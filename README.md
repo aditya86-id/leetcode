@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3831-find-x-value-of-array-i](https://github.com/adityakumartiwary/leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityakumartiwary/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/adityakumartiwary/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/adityakumartiwary/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/adityakumartiwary/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityakumartiwary/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Monotonic Queue
 |  |
 | ------- |
