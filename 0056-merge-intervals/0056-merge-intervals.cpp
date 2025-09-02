@@ -1,24 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& arr) {
-        sort(arr.begin(), arr.end());
-  
-    vector<vector<int>> res;
-    res.push_back(arr[0]);
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
 
-    for (int i = 1; i < arr.size(); i++) {
-        vector<int>& last = res.back();
-        vector<int>& curr = arr[i];
+        sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b) {
+            return a[0] < b[0];
+        });
 
-        // If current interval overlaps with the last merged
-        // interval, merge them 
-        if (curr[0] <= last[1]) 
-            last[1] = max(last[1], curr[1]);
-        else 
-            res.push_back(curr);
+        vector<vector<int>> merged;
+        vector<int> prev = intervals[0];
+
+        for (int i = 1; i < intervals.size(); ++i) {
+            vector<int> interval = intervals[i];
+            if (interval[0] <= prev[1]) {
+                prev[1] = max(prev[1], interval[1]);
+            } else {
+                merged.push_back(prev);
+                prev = interval;
+            }
+        }
+
+        merged.push_back(prev);
+        return merged;        
     }
-
-    return res;
-}
-
 };
