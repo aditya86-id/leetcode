@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityakumartiwary/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/adityakumartiwary/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/adityakumartiwary/leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/aditya86-id/leetcode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/adityakumartiwary/leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/adityakumartiwary/leetcode/tree/master/0313-super-ugly-number) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya86-id/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya86-id/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/aditya86-id/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/adityakumartiwary/leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/adityakumartiwary/leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
