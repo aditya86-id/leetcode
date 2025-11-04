@@ -1,39 +1,28 @@
 class Solution {
 public:
-    bool isvalid(string &s){
-        stack<char> st;
-        for(int i=0;i<s.length();i++){
-            if(s[i]=='(') st.push('(');
-            else {
-                if(!st.empty()) st.pop();
-                 else return false;
-                }
-        }
-        if(st.size()==0) return true;
-        return false;
-        
+    vector<string> generateParenthesis(int n) {
+        vector<string> result;
+        string str; 
+        backtrack(n, str, result, 0, 0);
+        return result;
     }
-    
-   void solve(int n1,int n2,string s,vector<string> &ans){
-        if(n1==0 && n2==0){
-            if(isvalid(s)){
-                ans.push_back(s);
-            }
+
+    void backtrack(int n, string &str, vector<string>& result, int open, int close){
+        if(str.size()==n*2){
+            result.push_back(str);
             return;
         }
-        if(n1!=0) {s.push_back('(');  solve(n1-1,n2,s,ans); s.pop_back();}
-       
-        if(n2!=0) {s.push_back(')'); solve(n1,n2-1,s,ans);}
-       
-   
-        
-}
 
-    vector<string> generateParenthesis(int n) {
+        if(open<n){
+            str.push_back('(');
+            backtrack(n, str, result, open+1, close);
+            str.pop_back();
+        }
 
-        vector<string> ans;
-        solve(n,n,"",ans);
-        return ans;
-        
+        if(close<open){
+            str.push_back(')');
+            backtrack(n, str, result, open, close+1);
+            str.pop_back();
+        }
     }
 };
