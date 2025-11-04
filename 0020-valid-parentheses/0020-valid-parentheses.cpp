@@ -1,18 +1,26 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        unordered_map<char,char> map={{')', '('}, {']', '['}, {'}', '{'}};
-        for(char c:s){
-            if(!st.empty()){
-                char i=st.top();
-                if(map[c]==i){
-                    st.pop();
-                    continue;
+        stack<char>st;
+        for(char ch:s){
+              if (ch == '(' || ch == '[' || ch == '{') {
+                st.push(ch);
+            } else {
+                if (st.empty()) {
+                    return false;
                 }
-            } 
-            st.push(c);
+                   
+                char top = st.top();
+                st.pop();
+
+                 if (ch == ')' && top != '(') return false;
+                if (ch == ']' && top != '[') return false;
+                if (ch == '}' && top != '{') return false;
+            }
+
         }
+
+
         return st.empty();
     }
 };
