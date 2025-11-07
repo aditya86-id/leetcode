@@ -1,23 +1,24 @@
 class Solution {
 public:
     int divide(int dividend, int divisor) {
+        if (dividend == divisor) return 1;
         if (dividend == INT_MIN && divisor == -1) return INT_MAX;
+        if (divisor == 1) return dividend;
+        
+        int sign = (dividend < 0) ^ (divisor < 0) ? -1 : 1;
+        
+        long long n = abs((long long)dividend);
+        long long d = abs((long long)divisor);
+        int ans = 0;
 
-        long long a = labs(dividend);
-        long long b = labs(divisor);
-        long long res = 0;
-
-        while (a >= b) {
-            long long temp = b, multiple = 1;
-            while (a >= (temp << 1)) {
-                temp <<= 1;
-                multiple <<= 1;
-            }
-            a -= temp;
-            res += multiple;
+        while (n >= d) {
+            int p = 0;
+            while (n >= (d << p)) p++;
+            p--;
+            n -= (d << p);
+            ans += (1 << p);
         }
 
-        if ((dividend > 0) ^ (divisor > 0)) res = -res;
-        return (int)res;
+        return sign * ans;
     }
 };
