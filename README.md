@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumartiwary/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aditya86-id/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aditya86-id/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityakumartiwary/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/adityakumartiwary/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya86-id/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aditya86-id/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/adityakumartiwary/leetcode/tree/master/0336-palindrome-pairs) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/aditya86-id/leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/adityakumartiwary/leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/adityakumartiwary/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/adityakumartiwary/leetcode/tree/master/0336-palindrome-pairs) |
