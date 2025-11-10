@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakumartiwary/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/adityakumartiwary/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya86-id/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityakumartiwary/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [3203-palindrome-rearrangement-queries](https://github.com/aditya86-id/leetcode/tree/master/3203-palindrome-rearrangement-queries) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/adityakumartiwary/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/adityakumartiwary/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/adityakumartiwary/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3203-palindrome-rearrangement-queries](https://github.com/aditya86-id/leetcode/tree/master/3203-palindrome-rearrangement-queries) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityakumartiwary/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/adityakumartiwary/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
