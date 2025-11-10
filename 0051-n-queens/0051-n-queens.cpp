@@ -1,57 +1,27 @@
 class Solution {
 public:
-    bool isSafe(vector<string>& board, int row, int col, int n) {
-    // horizontal (only check current row up to col-1)
-    for (int j = 0; j < n; j++) {
-        if (board[row][j] == 'Q') {
-            return false;
-        }
-    }
+    vector<vector<string>> res;
 
-    // vertical (only check rows above)
-    for (int i = 0; i < row; i++) {
-        if (board[i][col] == 'Q') {
-            return false;
-        }
-    }
-
-    // diagonal top-left
-    for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-        if (board[i][j] == 'Q') {
-            return false;
-        }
-    }
-
-    // diagonal top-right
-    for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
-        if (board[i][j] == 'Q') {
-            return false;
-        }
-    }
-
-    return true;
-}
-
-
-    void nQueens(vector<string>& board, int row, int n,
-                 vector<vector<string>>& ans) {
+    void solve(int n, int row, vector<int>& queens, vector<bool>& cols, vector<bool>& diag1, vector<bool>& diag2) {
         if (row == n) {
-            ans.push_back({board});
+            vector<string> board(n, string(n, '.'));
+            for (int i = 0; i < n; i++) board[i][queens[i]] = 'Q';
+            res.push_back(board);
             return;
         }
-
-        for (int j = 0; j < n; j++) {
-            if (isSafe(board, row, j, n)) {
-                board[row][j] = 'Q';
-                nQueens(board, row + 1, n, ans);
-                board[row][j] = '.';
-            }
+        for (int col = 0; col < n; col++) {
+            if (cols[col] || diag1[row + col] || diag2[row - col + n - 1]) continue;
+            queens[row] = col;
+            cols[col] = diag1[row + col] = diag2[row - col + n - 1] = true;
+            solve(n, row + 1, queens, cols, diag1, diag2);
+            cols[col] = diag1[row + col] = diag2[row - col + n - 1] = false;
         }
     }
+
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> board(n, string(n, '.'));
-        vector<vector<string>> ans;
-        nQueens(board, 0, n, ans);
-        return ans;
+        vector<int> queens(n, 0);
+        vector<bool> cols(n, false), diag1(2*n-1, false), diag2(2*n-1, false);
+        solve(n, 0, queens, cols, diag1, diag2);
+        return res;
     }
 };
