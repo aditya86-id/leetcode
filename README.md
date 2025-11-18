@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/adityakumartiwary/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumartiwary/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aditya86-id/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0229-majority-element-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/adityakumartiwary/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/adityakumartiwary/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aditya86-id/leetcode/tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/adityakumartiwary/leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/adityakumartiwary/leetcode/tree/master/0313-super-ugly-number) |
@@ -515,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/aditya86-id/leetcode/tree/master/0817-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
