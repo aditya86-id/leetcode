@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/adityakumartiwary/leetcode/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/adityakumartiwary/leetcode/tree/master/0343-integer-break) |
+| [0479-largest-palindrome-product](https://github.com/aditya86-id/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0523-continuous-subarray-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-reaching-points](https://github.com/adityakumartiwary/leetcode/tree/master/0796-reaching-points) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/aditya86-id/leetcode/tree/master/0479-largest-palindrome-product) |
 ## Number Theory
 |  |
 | ------- |
