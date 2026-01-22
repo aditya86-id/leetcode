@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/aditya86-id/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aditya86-id/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1695-maximum-erasure-value](https://github.com/aditya86-id/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/aditya86-id/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya86-id/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2665-minimum-time-to-repair-cars](https://github.com/adityakumartiwary/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0817-design-hashmap](https://github.com/aditya86-id/leetcode/tree/master/0817-design-hashmap) |
+| [1695-maximum-erasure-value](https://github.com/aditya86-id/leetcode/tree/master/1695-maximum-erasure-value) |
 | [3203-palindrome-rearrangement-queries](https://github.com/aditya86-id/leetcode/tree/master/3203-palindrome-rearrangement-queries) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/adityakumartiwary/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityakumartiwary/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/adityakumartiwary/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1695-maximum-erasure-value](https://github.com/aditya86-id/leetcode/tree/master/1695-maximum-erasure-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
