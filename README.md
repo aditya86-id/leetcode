@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/adityakumartiwary/leetcode/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/aditya86-id/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aditya86-id/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aditya86-id/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1695-maximum-erasure-value](https://github.com/aditya86-id/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/aditya86-id/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya86-id/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aditya86-id/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/adityakumartiwary/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aditya86-id/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1695-maximum-erasure-value](https://github.com/aditya86-id/leetcode/tree/master/1695-maximum-erasure-value) |
 ## Heap (Priority Queue)
 |  |
@@ -457,11 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aditya86-id/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/adityakumartiwary/leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/adityakumartiwary/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aditya86-id/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -553,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aditya86-id/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
