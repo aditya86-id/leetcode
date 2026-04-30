@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityakumartiwary/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aditya86-id/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/adityakumartiwary/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityakumartiwary/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/adityakumartiwary/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/adityakumartiwary/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/aditya86-id/leetcode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/aditya86-id/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/adityakumartiwary/leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0264-ugly-number-ii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya86-id/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aditya86-id/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/adityakumartiwary/leetcode/tree/master/0289-game-of-life) |
 | [2058-concatenation-of-array](https://github.com/aditya86-id/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya86-id/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/aditya86-id/leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/adityakumartiwary/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aditya86-id/leetcode/tree/master/0125-valid-palindrome) |
