@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityakumartiwary/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/adityakumartiwary/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/adityakumartiwary/leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/aditya86-id/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aditya86-id/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya86-id/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityakumartiwary/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya86-id/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya86-id/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya86-id/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aditya86-id/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditya86-id/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aditya86-id/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya86-id/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya86-id/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya86-id/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aditya86-id/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditya86-id/leetcode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityakumartiwary/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adityakumartiwary/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/adityakumartiwary/leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/aditya86-id/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/adityakumartiwary/leetcode/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityakumartiwary/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/aditya86-id/leetcode/tree/master/0733-flood-fill) |
@@ -681,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditya86-id/leetcode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aditya86-id/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
