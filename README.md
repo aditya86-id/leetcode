@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/adityakumartiwary/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/aditya86-id/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1544-make-the-string-great](https://github.com/aditya86-id/leetcode/tree/master/1544-make-the-string-great) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adityakumartiwary/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/adityakumartiwary/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1544-make-the-string-great](https://github.com/aditya86-id/leetcode/tree/master/1544-make-the-string-great) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/adityakumartiwary/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3203-palindrome-rearrangement-queries](https://github.com/aditya86-id/leetcode/tree/master/3203-palindrome-rearrangement-queries) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/adityakumartiwary/leetcode/tree/master/3732-calculate-score-after-performing-instructions) |
