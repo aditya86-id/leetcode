@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/aditya86-id/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya86-id/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/aditya86-id/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/aditya86-id/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya86-id/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aditya86-id/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/adityakumartiwary/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/aditya86-id/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aditya86-id/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1544-make-the-string-great](https://github.com/aditya86-id/leetcode/tree/master/1544-make-the-string-great) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/adityakumartiwary/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/aditya86-id/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aditya86-id/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/adityakumartiwary/leetcode/tree/master/3738-make-array-non-decreasing) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aditya86-id/leetcode/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityakumartiwary/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/aditya86-id/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
