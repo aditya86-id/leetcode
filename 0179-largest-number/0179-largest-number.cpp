@@ -1,19 +1,24 @@
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {
-        int n=nums.size();
-        vector<string>s(n);
-        for(int i=0;i<n;i++){
-            s[i]=to_string(nums[i]);
+        vector<string> array;
+        for (int num : nums) {
+            array.push_back(to_string(num));
         }
 
-         sort(s.begin(),s.end(),cmp);
-         string ans = accumulate(s.begin(),s.end(),string());
-         if(ans[0]=='0') return "0";
-         return ans;
+        sort(array.begin(), array.end(), [](const string &a, const string &b) {
+            return (b + a) < (a + b);
+        });
+
+        if (array[0] == "0") {
+            return "0";
+        }
+
+        string largest;
+        for (const string &num : array) {
+            largest += num;
+        }
+
+        return largest;
     }
-
-    static bool cmp(string& x,string& y){
-        return x+y>y+x;
-        }
 };
