@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/aditya86-id/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/aditya86-id/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/aditya86-id/leetcode/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0846-hand-of-straights](https://github.com/aditya86-id/leetcode/tree/master/0846-hand-of-straights) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/adityakumartiwary/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/adityakumartiwary/leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/aditya86-id/leetcode/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/aditya86-id/leetcode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aditya86-id/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/adityakumartiwary/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityakumartiwary/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0420-strong-password-checker](https://github.com/aditya86-id/leetcode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/adityakumartiwary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
