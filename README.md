@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya86-id/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aditya86-id/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/aditya86-id/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0713-subarray-product-less-than-k](https://github.com/adityakumartiwary/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/aditya86-id/leetcode/tree/master/0733-flood-fill) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/aditya86-id/leetcode/tree/master/0517-super-washing-machines) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aditya86-id/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0624-maximum-distance-in-arrays](https://github.com/aditya86-id/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0846-hand-of-straights](https://github.com/aditya86-id/leetcode/tree/master/0846-hand-of-straights) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/aditya86-id/leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
