@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya86-id/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aditya86-id/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/aditya86-id/leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya86-id/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0713-subarray-product-less-than-k](https://github.com/adityakumartiwary/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/adityakumartiwary/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/adityakumartiwary/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityakumartiwary/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/aditya86-id/leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/adityakumartiwary/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/aditya86-id/leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditya86-id/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aditya86-id/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/aditya86-id/leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aditya86-id/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/aditya86-id/leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aditya86-id/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/adityakumartiwary/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya86-id/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/adityakumartiwary/leetcode/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aditya86-id/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/aditya86-id/leetcode/tree/master/0611-valid-triangle-number) |
 | [0846-hand-of-straights](https://github.com/aditya86-id/leetcode/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aditya86-id/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/aditya86-id/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakumartiwary/leetcode/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/aditya86-id/leetcode/tree/master/0517-super-washing-machines) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aditya86-id/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/aditya86-id/leetcode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya86-id/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0846-hand-of-straights](https://github.com/aditya86-id/leetcode/tree/master/0846-hand-of-straights) |
