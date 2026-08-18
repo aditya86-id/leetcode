@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aditya86-id/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aditya86-id/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/adityakumartiwary/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/aditya86-id/leetcode/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0140-word-break-ii) |
@@ -733,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya86-id/leetcode/tree/master/0200-number-of-islands) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/aditya86-id/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
