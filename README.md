@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityakumartiwary/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aditya86-id/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/adityakumartiwary/leetcode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/aditya86-id/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/adityakumartiwary/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/adityakumartiwary/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/adityakumartiwary/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adityakumartiwary/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aditya86-id/leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/aditya86-id/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/adityakumartiwary/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/adityakumartiwary/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aditya86-id/leetcode/tree/master/0125-valid-palindrome) |
