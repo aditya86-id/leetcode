@@ -1,29 +1,29 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-    int x=0;
-    int n=secret.size();
-    unordered_map<char,int>f1;
-    unordered_map<char,int>f2;    
-    for(int i=0;i<n;++i){
-        if(secret[i]==guess[i]){
-            x++;
+        int secretcount[10];
+        int guesscount[10];
+        int bulls = 0;
+        int cows = 0;
+
+        for (int i = 0; i < 10; i++) {
+            secretcount[i] = 0;
+            guesscount[i] = 0;
         }
 
-        else{
-            f1[secret[i]]++;
-            f2[guess[i]]++;
+        for (int j = 0; j < secret.length(); j++) {
+            if (secret[j] == guess[j]) {
+                bulls += 1;
+            } else {
+                secretcount[secret[j] - '0'] += 1;
+                guesscount[guess[j] - '0'] += 1;
+            }
         }
 
-    }
-    int y=0;
-    for(auto it:f2){
-        if(f1[it.first]!=0 && it.second!=0){
-            y+=min(f1[it.first],it.second);
+        for (int p = 0; p < 10; p++) {
+            cows += min(secretcount[p], guesscount[p]);
         }
-    }
-    string ans = to_string(x)+'A'+to_string(y)+'B';
 
-    return ans;
+        return to_string(bulls) + "A" + to_string(cows) + "B";
     }
 };
